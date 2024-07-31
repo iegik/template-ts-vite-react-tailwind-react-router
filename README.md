@@ -49,6 +49,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 
 ## Recommended VS Code extensions
 
+- [Vitest](https://marketplace.visualstudio.com/items?itemName=vitest.explorer)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
