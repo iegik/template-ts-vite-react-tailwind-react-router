@@ -1,4 +1,4 @@
-{
+module.exports = {
   "root": true,
   "extends": [
     "eslint:recommended", // Eslint recommended configuration by eslint.
