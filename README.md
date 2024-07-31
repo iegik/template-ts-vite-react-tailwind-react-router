@@ -1,12 +1,14 @@
 # React TypeScript template with Vite
 
-This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev).
+This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind](https://tailwindcss.com/) + [React Router](https://reactrouter.com/) boilerplate built with [Vite](https://vitejs.dev).
 
 ## What's inside?
 
 - [ReactJS](https://reactjs.org)
 - [Vite](https://vitejs.dev)
 - [TypeScript](https://www.typescriptlang.org)
+- [Tailwind](https://tailwindcss.com/)
+- [React Router](https://reactrouter.com/)
 - [Jest](https://jestjs.io)
 - [Testing Library](https://testing-library.com)
 - [Cypress](https://www.cypress.io)
@@ -19,7 +21,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 1. Create the project.
 
    ```bash
-   npx degit fabien-ml/react-ts-vite-template my-app
+   npx degit iegik/template-ts-vite-react-tailwind-react-router my-app
    ```
 
 2. Access the project directory.
