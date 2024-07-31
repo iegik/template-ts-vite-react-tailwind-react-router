@@ -10,6 +10,7 @@
     "commit": "git-cz",
     "dev": "vite",
     "format": "prettier . --write --ignore-path .gitignore && git update-index --again",
+    "preinstall": "npx solidarity",
     "lint": "eslint . --ext .ts,.tsx --fix --ignore-path .gitignore",
     "prepare": "husky",
     "serve": "npm run build && vite preview --port 3000",
